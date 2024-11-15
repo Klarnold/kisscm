@@ -1,0 +1,10 @@
+C:\Users\Den\Desktop\Конфиг\ConsoleFormsC#\ConsoleFormsC#\bin\Debug\ConsoleFormsC#.exe.config
+C:\Users\Den\Desktop\Конфиг\ConsoleFormsC#\ConsoleFormsC#\bin\Debug\ConsoleFormsC#.exe
+C:\Users\Den\Desktop\Конфиг\ConsoleFormsC#\ConsoleFormsC#\bin\Debug\ConsoleFormsC#.pdb
+C:\Users\Den\Desktop\Конфиг\ConsoleFormsC#\ConsoleFormsC#\obj\Debug\ConsoleFormsC#.csproj.AssemblyReference.cache
+C:\Users\Den\Desktop\Конфиг\ConsoleFormsC#\ConsoleFormsC#\obj\Debug\ConsoleFormsC_.Properties.Resources.resources
+C:\Users\Den\Desktop\Конфиг\ConsoleFormsC#\ConsoleFormsC#\obj\Debug\ConsoleFormsC#.csproj.GenerateResource.cache
+C:\Users\Den\Desktop\Конфиг\ConsoleFormsC#\ConsoleFormsC#\obj\Debug\ConsoleFormsC#.csproj.CoreCompileInputs.cache
+C:\Users\Den\Desktop\Конфиг\ConsoleFormsC#\ConsoleFormsC#\obj\Debug\ConsoleFormsC#.exe
+C:\Users\Den\Desktop\Конфиг\ConsoleFormsC#\ConsoleFormsC#\obj\Debug\ConsoleFormsC#.pdb
+C:\Users\Den\Desktop\Конфиг\ConsoleFormsC#\ConsoleFormsC#\obj\Debug\ConsoleFormsC_.это_точно_cmd.resources

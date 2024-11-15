@@ -1,0 +1,6 @@
+<config>
+    <visualizer_path>C:\Program Files\Graphviz\bin\dot.exe</visualizer_path>
+    <repository_path>C:\Users\Den\config2\.venv\git_rep</repository_path>
+    <output_image_path>C:\Users\Den\Desktop\image.png</output_image_path>
+    <date>2023-01-01</date>
+</config>
