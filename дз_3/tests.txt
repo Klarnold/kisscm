@@ -1,0 +1,71 @@
+---# Test №1 #---
+	<input>
+G=5
+hip=hop
+<#
+lol
+pol
+kiiikkk
+#>
+exit
+	<output>
+!find G
+(def x 2)
+[x]
+^
+exit
+```# Test №1 #```
+
+---# Test №2 #---
+	<input>
+X=7
+variables dict(
+x=3,
+y=2
+)
+PROK=19
+exit
+	<output>
+!find PROK
+!find X
+-
+(def some_value 4)
+[some_value]
+!find variables/x
++
+exit
+```# Test №2 #```
+
+---# Test №3 #---
+	<input>
+glory=toArstozcka!
+zemlu=Krestyanam
+zavodi=Rabochim
+xor=24
+first dict(
+second dict(
+third dict(
+third_value=7
+)
+second_value=5
+)
+some_value=2
+first_value=14
+)
+exit
+	<output>
+!find xor
+(def x 25)
+[x]
+/
+!find xor
+!find first/second/third/third_value
+/
+!find xor
+!find first/second/second_value
+/
+!find xor
+!find first/first_value
+/
+exit
+```# Test №3 #```

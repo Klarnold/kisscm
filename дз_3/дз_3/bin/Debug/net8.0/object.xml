@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<All>
+  <variables>
+    <glory>toArstozcka!</glory>
+    <zemlu>Krestyanam</zemlu>
+    <zavodi>Rabochim</zavodi>
+    <xor>24</xor>
+    <first>
+      <second>
+        <third>
+          <third_value>7</third_value>
+        </third>
+        <second_value>5</second_value>
+      </second>
+      <some_value>2</some_value>
+      <first_value>14</first_value>
+    </first>
+  </variables>
+  <output>
+    <x>25</x>
+    <_24_division_25>0</_24_division_25>
+    <_24_division_7>3</_24_division_7>
+    <_24_division_5>4</_24_division_5>
+    <_24_division_14>1</_24_division_14>
+  </output>
+</All>
