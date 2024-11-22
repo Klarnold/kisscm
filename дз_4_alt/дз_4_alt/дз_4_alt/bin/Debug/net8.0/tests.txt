@@ -1,0 +1,1 @@
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\bin\Debug\net8.0\input.csv C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\bin\Debug\net8.0\output.csv

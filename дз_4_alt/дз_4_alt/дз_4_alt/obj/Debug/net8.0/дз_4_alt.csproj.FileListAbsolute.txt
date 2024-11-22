@@ -1,0 +1,14 @@
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\bin\Debug\net8.0\дз_4_alt.exe
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\bin\Debug\net8.0\дз_4_alt.deps.json
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\bin\Debug\net8.0\дз_4_alt.runtimeconfig.json
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\bin\Debug\net8.0\дз_4_alt.dll
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\bin\Debug\net8.0\дз_4_alt.pdb
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\obj\Debug\net8.0\дз_4_alt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\obj\Debug\net8.0\дз_4_alt.AssemblyInfoInputs.cache
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\obj\Debug\net8.0\дз_4_alt.AssemblyInfo.cs
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\obj\Debug\net8.0\дз_4_alt.csproj.CoreCompileInputs.cache
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\obj\Debug\net8.0\дз_4_alt.dll
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\obj\Debug\net8.0\refint\дз_4_alt.dll
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\obj\Debug\net8.0\дз_4_alt.pdb
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\obj\Debug\net8.0\дз_4_alt.genruntimeconfig.cache
+C:\Users\Den\Desktop\Конфиг_дз\дз_4_alt\дз_4_alt\дз_4_alt\obj\Debug\net8.0\ref\дз_4_alt.dll
